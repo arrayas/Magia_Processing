@@ -11,3 +11,6 @@ Encontrarás cada poción en los siguientes enlaces:
 - [Poción 7](P7.md)
 - [Poción 8](P8.md)
 - [Hechizo 1](H1.md)
+- [Poción 9](P9.md)
+- [Poción 10](P10.md)
+- [Poción 11](P11.md)
