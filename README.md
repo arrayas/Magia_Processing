@@ -14,3 +14,6 @@ Encontrarás cada poción en los siguientes enlaces:
 - [Poción 9](P9.md)
 - [Poción 10](P10.md)
 - [Poción 11](P11.md)
+- [Poción 12](P12.md)
+- [Poción 13](P13.md)
+- [Poción 14](P14.md)
